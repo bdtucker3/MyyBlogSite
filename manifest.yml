@@ -1,5 +1,5 @@
 ---
 applications:
-- name: mysite
+- name: Darriel
   services:
   - sqlite3
