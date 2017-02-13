@@ -26,7 +26,7 @@ SECRET_KEY = 'lrzz@w4$4pnau1_$u6)+7jujxok@t+t-qsmgc19$sp=7p1z1*u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['darriel.cfapps.io']
 
 
 # Application definition
